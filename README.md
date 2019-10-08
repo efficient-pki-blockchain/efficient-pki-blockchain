@@ -1,10 +1,15 @@
-# An Efficient, Secure and Privacy Preserving Blockchain-Based PKI Architecture
+# KORGAN: An Efficient PKI Architecture Based on Permissioned-Blockchain by Modifying PBFT Through Dynamic Threshold Signatures
 
 ## Getting Started
-This repository contains smart contracts and proof generation/verification codes for implementation of "An Efficient, Secure and Privacy Preserving Blockchain-Based PKI Architecture" paper. The general architecture is depicted in the Picture below.
+This repository contains smart contracts and proof generation/verification codes for implementation of 
+"KORGAN: An Efficient PKI Architecture Based on Permissioned-Blockchain by Modifying PBFT Through Dynamic Threshold Signatures" paper. The general architecture is depicted in the Picture below.
 
-![Alt text](/images/efficient-pki-architecture.png?raw=true "Efficient PKI Architecture")
-
+<p align="center">
+  <img src="/images/tls-system-of-korgan.png?raw=true" title="TLS System of KORGAN">
+  <div align="center">TLS System of KORGAN</div>
+</p>
+                         
+Please find the article in https://eprint.iacr.org/2019/1141
 
 ### Prerequisites
 In order to deploy the smartcontracts a private Ethereum network is required.
